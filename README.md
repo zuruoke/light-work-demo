@@ -1,16 +1,21 @@
-# lightwork
+# Lightwork App
 
-A new Flutter project.
+The Lightwork App is an advanced, AI-powered home services platform designed to simplify property care. It leverages cutting-edge artificial intelligence to streamline the management of various home maintenance tasks.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+    git clone -q  https://github.com/zuruoke/light-work-demo.git
+    cd light-work-demo
+    flutter pub get && flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+Here are some screenshots from the app to give you a glimpse of the user interface:
+
+<img src="https://github.com/zuruoke/light-work-demo/assets/51057490/840551ad-cf5c-4605-aa39-51047212d116" alt="App Screenshot" width="40%"/>
+
+<img src="https://github.com/zuruoke/light-work-demo/assets/51057490/1147d876-9c9d-4adf-9b57-091a409232d8" alt="App Screenshot" width="40%"/>
+
